@@ -1,0 +1,17 @@
+:root {
+
+    --fg:  #44FAFB; /*regular text*/
+    --afg: #723939; /*accent text*/
+    --ahg: #4C2626; /*accent hover text*/
+    --dbg: #130A0A; /*darker background*/
+    --bg:  #261312; /*main background*/
+    --hbg: #31211F; /*lighter background*/
+    --grn: #2BB067; /*running, ok, good things */
+    --red: #AB4559; /*stopped, wrong, bad things */
+
+    --sbg:  var(--afg); /*active menu item background*/
+    --hfg:  var(--fg);  /*active menu item foreground*/
+    --bfg:  var(--fg);  /*button text*/
+    --hbbg: var(--ahg); /*button accent bg*/
+    --bbg:  var(--afg); /*button hover bg*/
+    }

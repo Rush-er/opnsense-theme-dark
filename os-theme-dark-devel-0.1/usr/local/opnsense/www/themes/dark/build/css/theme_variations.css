@@ -1,0 +1,102 @@
+:root {
+/* burnt orange*/  
+--fg:   #FFFFFC; /*regular text*/
+--afg:  #FF4F00; /*accent text*/
+--ahg:  #aa5102; /*accent hover text*/
+--dbg:  #000000; /*darker background*/
+--bg:   #251f1f; /*main background*/
+--hbg:  #332b2b; /*lighter background*/
+--grn:  #74c43c; /*running, ok, good things */
+--red : #ff3535; /*stopped, wrong, bad things */
+
+/* Dracula Pro*/  
+--fg:  #45FBFC; /*regular text*/
+--afg: #503D65; /*accent text*/
+--ahg: #32263F; /*accent hover text*/
+--dbg: #0D0A10; /*darker background*/
+--bg:  #18131F; /*main background*/
+--hbg: #25212B; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/*Dracula Blade*/
+--fg:  #47FEFF; /*regular text*/
+--afg: #296666; /*accent text*/
+--ahg: #1A4040; /*accent hover text*/
+--dbg: #071010; /*darker background*/
+--bg:  #0D2020; /*main background*/
+--hbg: #1C2C2C; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/*Dracula Buffy*/
+--fg:  #47FEFF; /*regular text*/
+--afg: #713959; /*accent text*/
+--ahg: #4B263B; /*accent hover text*/
+--dbg: #120A0F; /*darker background*/
+--bg:  #25131E; /*main background*/
+--hbg: #30212A; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/*Dracula Lincoln*/
+--fg:  #45FEFF; /*regular text*/
+--afg: #63613C; /*accent text*/
+--ahg: #3D3C25; /*accent hover text*/
+--dbg: #0F0F0A; /*darker background*/
+--bg:  #1F1E12; /*main background*/
+--hbg: #2B2A20; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/*Dracula Morbius*/
+--fg:  #44FAFB; /*regular text*/
+--afg: #723939; /*accent text*/
+--ahg: #4C2626; /*accent hover text*/
+--dbg: #130A0A; /*darker background*/
+--bg:  #261312; /*main background*/
+--hbg: #31211F; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/*Dracula Van Helsing*/
+--fg:  #45FEFF; /*regular text*/
+--afg: #375068; /*accent text*/
+--ahg: #233342; /*accent hover text*/
+--dbg: #090D10; /*darker background*/
+--bg:  #111A21; /*main background*/
+--hbg: #0B0D0F; /*lighter background*/
+--grn: #2BB067; /*running, ok, good things */
+--red: #AB4559; /*stopped, wrong, bad things */
+
+/* Marine*/  
+--fg:  #ffffff; /*regular text*/
+--afg: #3c50c4; /*accent text*/
+--ahg: #2b2da1; /*accent hover text*/
+--dbg: #111111; /*darker background*/
+--bg:  #1d1d1d; /*main background*/
+--hbg: #242424; /*lighter background*/
+--grn: #10f8b3; /*running, ok, good things */
+--red: #e2230a; /*stopped, wrong, bad things */
+
+/* Gray*/  
+--fg:  #ffffff; /*regular text*/
+--afg: #505050; /*accent text*/
+--ahg: #3d3d3d; /*accent hover text*/
+--dbg: #2a1f50; /*darker background*/
+--bg:  #150e2e; /*main background*/
+--hbg: #2e245a; /*lighter background*/
+--grn: #10f8b3; /*running, ok, good things */
+--red: #e2230a; /*stopped, wrong, bad things */
+
+/* Sunset */  
+--fg:  #b2b1c4; /*regular text*/
+--afg: #92ccff; /*accent text*/
+--ahg: #ffb760; /*accent hover text*/
+--dbg: #16151f; /*darker background*/
+--bg:  #1c1b27; /*main background*/
+--hbg: #272536; /*lighter background*/
+--grn: #6fe4a1; /*running, ok, good things */
+--red: #fc4e41; /*stopped, wrong, bad things */
+
+}
