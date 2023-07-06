@@ -1,9 +1,11 @@
 # opnsense-theme-dark
 Dark theme for OPNsense, because real networking people dwell in the dark.
 
+For compressing the folder: tar -cf - * | xz -9ze -T0 >os-theme-dark-devel-0.1.txz
+
 the .txz package can be installed with:
 
-    sudo pkg add https://github.com/mihakralj/opnsense-theme-dark/raw/main/os-theme-dark-devel-0.1.txz
+    sudo pkg add https://github.com/rush-er/opnsense-theme-dark/raw/dev/os-theme-dark-devel-0.1.txz
 
 after installation, a new dark theme should appear in System-General -> Theme
 
@@ -27,6 +29,9 @@ if you want to get rid of the package:
 - Morbius (install with `sudo cp Morbius.css colors.css`)
 - DraculaPro (install with `sudo cp DraculaPro.css colors.css`)
 - VanHelsing (install with `sudo cp VanHelsing.css colors.css`)
+- Marine (install with `sudo cp Marine.css colors.css`)
+- Sunset (install with `sudo cp Sunset.css colors.css`)
+- Gray (install with `sudo cp Gray.css colors.css`)
 
 Except the first one, all other color themes are inspired by Zeno Rocha's Dracula dark theme https://draculatheme.com/
 

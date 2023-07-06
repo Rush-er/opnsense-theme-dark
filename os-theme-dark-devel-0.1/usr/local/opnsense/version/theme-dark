@@ -1,0 +1,11 @@
+{
+    "product_abi": "21.1",
+    "product_arch": "amd64",
+    "product_email": "mihak09@gmail.com",
+    "product_flavour": "OpenSSL",
+    "product_hash": "a20b64121",
+    "product_id": "os-theme-dark-devel",
+    "product_name": "theme-dark",
+    "product_version": "0.1",
+    "product_website": "https://opnsense.org/"
+}
